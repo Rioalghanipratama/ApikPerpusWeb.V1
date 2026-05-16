@@ -2,7 +2,7 @@
 
 > Sistem manajemen perpustakaan berbasis web modern dengan tampilan yang responsif, cepat, dan user-friendly.
 
-![APIKPERPUS Preview](./assets/preview.jpg)
+![APIKPERPUS Preview](src/assets/preview.jpg)
 
 ---
 
@@ -42,11 +42,11 @@ Project ini dibangun menggunakan teknologi frontend modern dengan fokus pada per
 
 ### 🖥️ Tampilan Desktop
 
-![Desktop Screenshot](./assets/dekstop.jpg)
+![Desktop Screenshot](src/assets/dekstop.jpg)
 
 ### 📱 Tampilan Mobile
 
-![Mobile Screenshot](./assets/mobile.jpeg)
+![Mobile Screenshot](src/assets/mobile.jpeg)
 
 ---
 
