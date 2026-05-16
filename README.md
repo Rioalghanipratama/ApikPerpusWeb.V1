@@ -1,32 +1,32 @@
 # 📚 APIKPERPUS
 
-> Modern web-based library management system with a clean, responsive, and user-friendly interface.
+> Sistem manajemen perpustakaan berbasis web modern dengan tampilan yang responsif, cepat, dan user-friendly.
 
-![APIKPERPUS Preview](https://placehold.co/1200x600?text=APIKPERPUS+Preview)
-
----
-
-# ✨ Overview
-
-APIKPERPUS is a modern library management web application designed to simplify digital library operations such as book catalog management, borrowing systems, and user access.
-
-Built with modern frontend technologies, this project focuses on performance, responsiveness, and user experience.
+![APIKPERPUS Preview](assets/preview.jpg)
 
 ---
 
-# 🚀 Features
+## ✨ Tentang Project
 
-* 📖 Book catalog management
-* 👤 User authentication system
-* 🔍 Search and filtering books
-* 📱 Fully responsive design
-* ⚡ Fast and modern UI
-* 🌙 Clean user experience
-* 🔐 Secure access management
+APIKPERPUS merupakan aplikasi perpustakaan berbasis web yang dirancang untuk mempermudah pengelolaan perpustakaan digital seperti manajemen katalog buku, sistem peminjaman, dan akses pengguna.
+
+Project ini dibangun menggunakan teknologi frontend modern dengan fokus pada performa, responsivitas, dan pengalaman pengguna yang nyaman.
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 Fitur Utama
+
+* 📖 Manajemen katalog buku
+* 👤 Sistem autentikasi pengguna
+* 🔍 Pencarian dan filter buku
+* 📱 Tampilan responsive untuk mobile & desktop
+* ⚡ UI modern dan cepat
+* 🌙 Pengalaman pengguna yang clean
+* 🔐 Manajemen akses pengguna
+
+---
+
+## 🛠️ Tech Stack
 
 | Technology              | Description          |
 | ----------------------- | -------------------- |
@@ -38,19 +38,19 @@ Built with modern frontend technologies, this project focuses on performance, re
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshot
 
-# 🖥️ Desktop View
+### 🖥️ Tampilan Desktop
 
-![Desktop Screenshot](https://placehold.co/1000x500?text=Desktop+Preview)
+![Desktop Screenshot](assets/dekstop.jpg)
 
-# 📱 Mobile View
+### 📱 Tampilan Mobile
 
-![Mobile Screenshot](https://placehold.co/400x800?text=Mobile+Preview)
+![Mobile Screenshot](assets/mobile.jpeg)
 
 ---
 
-# 🌐 Live Demo
+## 🌐 Live Demo
 
 🔗 Website:
 
@@ -58,15 +58,15 @@ Built with modern frontend technologies, this project focuses on performance, re
 
 ---
 
-# ⚙️ Installation
+## ⚙️ Instalasi
 
 Clone repository:
 
 ```bash
-git clone https://github.com/username/apikperpus.git
+git clone https://github.com/Rioalghanipratama/apikperpusweb.git
 ```
 
-Navigate to project folder:
+Masuk ke folder project:
 
 ```bash
 cd apikperpus
@@ -78,7 +78,7 @@ Install dependencies:
 npm install
 ```
 
-Run development server:
+Jalankan development server:
 
 ```bash
 npm run dev
@@ -86,7 +86,7 @@ npm run dev
 
 ---
 
-# 📂 Project Structure
+## 📂 Struktur Project
 
 ```bash
 src/
@@ -101,30 +101,30 @@ src/
 
 ---
 
-# 📈 Future Improvements
+## 📈 Pengembangan Selanjutnya
 
-* [ ] Add dashboard analytics
-* [ ] Implement dark mode
-* [ ] Add notification system
+* [ ] Menambahkan dashboard analytics
+* [ ] Implementasi dark mode
+* [ ] Menambahkan sistem notifikasi
 * [ ] Multi-role authentication
-* [ ] API integration improvement
-* [ ] Performance optimization
+* [ ] Optimasi integrasi API
+* [ ] Peningkatan performa aplikasi
 
 ---
 
-# 🤝 Contributing
+## 🤝 Kontribusi
 
-Contributions are always welcome.
+Kontribusi selalu terbuka.
 
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
+1. Fork repository
+2. Buat branch fitur baru
+3. Commit perubahan
+4. Push ke branch
+5. Open Pull Request
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Developer
 
 ### Rio Alghani Pratama
 
@@ -133,13 +133,12 @@ Contributions are always welcome.
 
 ---
 
-# ⭐ Support
+## ⭐ Dukungan
 
-If you like this project, don't forget to give it a ⭐ on GitHub.
+Jika project ini membantu, jangan lupa berikan ⭐ pada repository GitHub ini.
 
 ---
 
-# 📜 License
+## 📜 License
 
-This project is licensed under the MIT License.
-
+Project ini menggunakan lisensi MIT.
