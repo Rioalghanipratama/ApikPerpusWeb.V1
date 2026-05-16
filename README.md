@@ -42,11 +42,11 @@ Project ini dibangun menggunakan teknologi frontend modern dengan fokus pada per
 
 ### 🖥️ Tampilan Desktop
 
-![Desktop Screenshot](src/assets/dekstop.jpg)
+![Desktop Screenshot](src/assets/dekstop.png)
 
 ### 📱 Tampilan Mobile
 
-![Mobile Screenshot](src/assets/mobile.jpeg)
+![Mobile Screenshot](src/assets/mobile.png)
 
 ---
 
