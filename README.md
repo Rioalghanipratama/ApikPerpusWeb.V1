@@ -1,20 +1,144 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 📚 APIKPERPUS
 
-# Run and deploy your AI Studio app
+> Sistem manajemen perpustakaan berbasis web modern dengan tampilan yang responsif, cepat, dan user-friendly.
 
-This contains everything you need to run your app locally.
+![APIKPERPUS Preview](./assets/preview.jpg)
 
-View your app in AI Studio: https://ai.studio/apps/5fd473e3-6cdd-4680-b5da-5a151b2e116f
+---
 
-## Run Locally
+## ✨ Tentang Project
 
-**Prerequisites:**  Node.js
+APIKPERPUS merupakan aplikasi perpustakaan berbasis web yang dirancang untuk mempermudah pengelolaan perpustakaan digital seperti manajemen katalog buku, sistem peminjaman, dan akses pengguna.
 
+Project ini dibangun menggunakan teknologi frontend modern dengan fokus pada performa, responsivitas, dan pengalaman pengguna yang nyaman.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🚀 Fitur Utama
+
+* 📖 Manajemen katalog buku
+* 👤 Sistem autentikasi pengguna
+* 🔍 Pencarian dan filter buku
+* 📱 Tampilan responsive untuk mobile & desktop
+* ⚡ UI modern dan cepat
+* 🌙 Pengalaman pengguna yang clean
+* 🔐 Manajemen akses pengguna
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology              | Description          |
+| ----------------------- | -------------------- |
+| React / Next.js         | Frontend Framework   |
+| Tailwind CSS            | Styling Framework    |
+| JavaScript / TypeScript | Programming Language |
+| GitHub                  | Version Control      |
+| Netlify                 | Deployment Platform  |
+
+---
+
+## 📸 Screenshot
+
+### 🖥️ Tampilan Desktop
+
+![Desktop Screenshot](./assets/dekstop.jpg)
+
+### 📱 Tampilan Mobile
+
+![Mobile Screenshot](./assets/mobile.jpeg)
+
+---
+
+## 🌐 Live Demo
+
+🔗 Website:
+
+[https://apikperpus-web.netlify.app/](https://apikperpus-web.netlify.app/)
+
+---
+
+## ⚙️ Instalasi
+
+Clone repository:
+
+```bash
+git clone https://github.com/Rioalghanipratama/apikperpusweb.git
+```
+
+Masuk ke folder project:
+
+```bash
+cd apikperpus
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Jalankan development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📂 Struktur Project
+
+```bash
+src/
+ ┣ components/
+ ┣ pages/
+ ┣ assets/
+ ┣ styles/
+ ┣ hooks/
+ ┣ services/
+ ┗ utils/
+```
+
+---
+
+## 📈 Pengembangan Selanjutnya
+
+* [ ] Menambahkan dashboard analytics
+* [ ] Implementasi dark mode
+* [ ] Menambahkan sistem notifikasi
+* [ ] Multi-role authentication
+* [ ] Optimasi integrasi API
+* [ ] Peningkatan performa aplikasi
+
+---
+
+## 🤝 Kontribusi
+
+Kontribusi selalu terbuka.
+
+1. Fork repository
+2. Buat branch fitur baru
+3. Commit perubahan
+4. Push ke branch
+5. Open Pull Request
+
+---
+
+## 👨‍💻 Developer
+
+### Rio Alghani Pratama
+
+* GitHub: [https://github.com/Rioalghanipratama](https://github.com/Rioalghanipratama)
+* Email: [pratamagaming94@gmail.com](mailto:pratamagaming94@gmail.com)
+
+---
+
+## ⭐ Dukungan
+
+Jika project ini membantu, jangan lupa berikan ⭐ pada repository GitHub ini.
+
+---
+
+## 📜 License
+
+Project ini menggunakan lisensi MIT.
