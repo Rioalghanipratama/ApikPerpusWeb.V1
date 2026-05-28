@@ -82,4 +82,4 @@ https://apikperpus-web.netlify.app/
 Clone repository:
 
 ```bash
-git clone https://github.com/Rioalghanipratama/ApikPerpusWeb.V2.git
+git clone https://github.com/Rioalghanipratama/ApikPerpusWeb.V1.git
